@@ -6,9 +6,9 @@ function Home() {
   return (
     <Container>
       <Section 
-        tittle = "Model S"
+        tittle = "Model 3"
         description = "Order Online for Touchless Delivery"
-        backgroundImg = "model-s.jpg"
+        backgroundImg = "model-3.jpg"
         leftBtnText = "Custom Order"
         rightBtnText = "Existing Inventory" 
       />
@@ -20,9 +20,9 @@ function Home() {
         rightBtnText = "Existing Inventory" 
       />
       <Section 
-        tittle = "Model 3"
+        tittle = "Model S"
         description = "Order Online for Touchless Delivery"
-        backgroundImg = "model-3.jpg"
+        backgroundImg = "model-s.jpg"
         leftBtnText = "Custom Order"
         rightBtnText = "Existing Inventory" 
       />
